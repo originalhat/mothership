@@ -5,4 +5,4 @@ Bring the sexy back with an all new IRC interface that's seamlessly integrated a
 
 ##DBEG AT WERKZ
 
-![Falkon is the greatest](://raw.github.com/devinbrown/Airc/master/Falkon%231.jpg?login=EGartin&token=ff4c915396d21aabee0c531d2feca381)
+![Falkon is the greatest](://www.dropbox.com/s/jm7dt9j5wbfr262/Falkon%231.jpg)
