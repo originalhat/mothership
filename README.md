@@ -5,12 +5,7 @@ experience of cross-platform chat that's out of this world.
 
 ![mother-russia](assets/images/mother-russia.jpeg)
 
-##DBEG AT WERKZ
-
-![Falkon is the greatest](assets/images/Falkon1.jpg)
+## Color Schemes
 
 ![Possible Color Scheme](https://dl.dropboxusercontent.com/u/20155907/aIRC_ColorTheme.PNG)
 
-### Niggahs in paradise
-
-#### YANNISSED
