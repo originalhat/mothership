@@ -3,7 +3,7 @@
 The Mothership has arrived. Prepared to be *beamed up* to an all inclusive
 experience of cross-platform chat that's out of this world.
 
-![mother-russia](assets/images/mother-russia.jpeg)
+![mother-russia](app/assets/images/mother-russia.jpeg)
 
 ## Color Schemes
 
