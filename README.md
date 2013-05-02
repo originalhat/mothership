@@ -1,7 +1,9 @@
-Airc
-====
+# Mothership
 
-Bring the sexy back with an all new IRC interface that's seamlessly integrated across all devices.
+The Mothership has arrived. Prepared to be *beamed up* to an all inclusive
+experience of cross-platform chat that's out of this world.
+
+![mother-russia](assets/images/mother-russia.jpeg)
 
 ##DBEG AT WERKZ
 
