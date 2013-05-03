@@ -54,7 +54,7 @@ class ChatServer < GServer
   end
 end
 
-server = ChatServer.new(1234)
+server = ChatServer.new(2000)
 server.start
 
 loop do
